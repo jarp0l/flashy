@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "flashy",
+            "name": "Flashy",
             "request": "launch",
             "type": "dart",
             "program": "lib/main.dart",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "name": "flashy (profile mode)",
+            "name": "Flashy (profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
