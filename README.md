@@ -1,6 +1,6 @@
-# flashy
+# Flashy
 
-A new Flutter project.
+Just a simple flashlight app.
 
 ## Getting Started
 
